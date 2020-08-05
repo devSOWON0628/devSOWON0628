@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **devSOWON0628/devSOWON0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +15,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSOWON0628&layout=compact)](https://github.com/devSOWON0628/devSOWON0628)   
 ![devSOWON0628's github stats](https://github-readme-stats.vercel.app/api?username=devSOWON0628&show_icons=true)
+
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://devSOWON0628.github.io/)](https://devSOWON0628.github.io/)
+			
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100011260749582)](https://www.facebook.com/profile.php?id=100011260749582)
+	
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2018s29@gmail.com)](mailto:s2018s29@gmail.com)
+	
