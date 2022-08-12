@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=35&color=gradient&text=sowon&desc=Web%20Back-End%20Developer&descAlignY=57&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=15&fontAlignY=30&color=gradient&text=sowon&desc=Web%20Back-End%20Developer&descAlignY=52&descAlign=16)
 
 <h3>:princess: contact :princess:</h3>
 <div>
@@ -22,4 +22,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSOWON0628)](https://github.com/devSOWON0628/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&section=footer)
-
