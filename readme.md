@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=35&color=gradient&text=sowon&desc=Web%20Back-End%20Developer&descAlignY=57&descAlign=80)
 
 <h3>:princess: contact :princess:</h3>
 <div>
@@ -17,6 +17,7 @@
  <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> -->
 </div>
  
+<h3></h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSOWON0628)](https://github.com/devSOWON0628/github-readme-stats)
 
