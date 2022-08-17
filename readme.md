@@ -1,4 +1,7 @@
+<a href="https://www.notion.so/sowowon/Back-end-Developer-00c3e591f20e42b387e63e55e426b3f7">  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=15&fontAlignY=30&color=gradient&text=sowon&desc=Web%20Back-End%20Developer&descAlignY=52&descAlign=16)
+</a>
 
 <h3>:princess: contact :princess:</h3>
 <div>
