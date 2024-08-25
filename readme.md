@@ -5,7 +5,7 @@
 
 <h3>:princess: contact :princess:</h3>
 <div>
- <a href="https://www.instagram.com/sowowon_6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.instagram.com/_sowowon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="mailto:sowonpark628@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://velog.io/@dghff"><img src="https://img.shields.io/badge/Velog-33cc99?style=flat-square&logo=Java&logoColor=white"/></a>
 
